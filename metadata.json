@@ -1,0 +1,5 @@
+{
+  "name": "Outlook Template Manager",
+  "description": "Manage email templates and contacts for quick sending via Outlook.",
+  "requestFramePermissions": []
+}
